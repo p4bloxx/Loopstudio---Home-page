@@ -25,7 +25,7 @@ This is a solution to the [Loopstudios landing page challenge on Frontend Mentor
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-home-page-loopstudio-LGpf64NZS7](https://www.frontendmentor.io/solutions/responsive-home-page-loopstudio-LGpf64NZS7)
 - Live Site URL: [https://p4bloxx.github.io/Loopstudio---Home-page/](https://p4bloxx.github.io/Loopstudio---Home-page/)
 
 ## My process
