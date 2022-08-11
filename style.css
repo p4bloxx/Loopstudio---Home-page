@@ -117,15 +117,25 @@ svg {
     flex-direction: column;
     justify-content: space-between;
     gap: 25%;
+    position: relative;
   }
+
+ 
 }
 
-
+.hero-section::after{
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.2);
+}
 
 .header{
   display: flex;
   justify-content: space-between;
   align-items: center;
+  position: relative;
+  z-index: 1;
 }
 
 .menu,
@@ -369,6 +379,7 @@ svg {
     display: flex;
     flex-direction: column;
     gap: 25%;
+    position: relative;
   }
 
   .header{
